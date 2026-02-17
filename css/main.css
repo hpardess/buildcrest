@@ -3624,7 +3624,7 @@ GoTop BUtton
 Page-Title-Row
 ------------------------*/
 .ttm-page-title-row {
-  background-image: url(https://placehold.co/1920x252?text=1920x252+pagetitle-bg.jpg);
+  background-image: url(../images/pagetitle-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: repeat;
