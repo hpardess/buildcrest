@@ -34,7 +34,7 @@
                                     <div class="site-navigation d-flex align-items-center justify-content-between">
                                         <!-- site-branding -->
                                         <div class="site-branding ml_20 res-1199-ml_10">
-                                            <a class="home-link" href="index.html" title="BuildCrest" rel="home">
+                                            <a class="home-link" href="./" title="BuildCrest" rel="home">
                                                 <img style="max-height: 100%!important;" id="logo-img" height="45" width="175" class="img-fluid auto_size" src="images/buildcrest_logo.png" alt="logo-img">
                                             </a>
                                         </div><!-- site-branding end -->
@@ -48,16 +48,16 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item">
-                                                        <a href="index.html" class="mega-menu-link">Home</a>
+                                                        <a href="./" class="mega-menu-link">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="about-us.html" class="mega-menu-link">About</a>
+                                                        <a href="about-us" class="mega-menu-link">About</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="services.html" class="mega-menu-link">Services</a>
+                                                        <a href="services" class="mega-menu-link">Services</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="contact-us.html">Contact us</a>
+                                                        <a href="contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
@@ -78,7 +78,7 @@
                                                 </div>
                                                 <div class="widget_content">
                                                     <p>Talk to us</p>
-                                                    <h3 class="widget_title">info@BuildCrest.co | AhmadJawid@BuildCrest.co</h3>
+                                                    <h3 class="widget_title">info@buildcrest.co | AhmadJawid@buildcrest.co</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <span>
-                                        <a title="Homepage" href="index.html">
+                                        <a title="Homepage" href="/>
                                             <i class="themifyicon ti-home"></i> &nbsp;Home
                                         </a>
                                     </span>
@@ -343,7 +343,7 @@
                                         <p>We not limited to employment with technology companies, information, technology expertise team may work with any businesses!.</p>
                                     </div>
                                 </div>
-                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor  margin_top15" href="our-team.html">All cases<i class="fa fa-long-arrow-right"></i></a>
+                                <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor  margin_top15" href="our-team">All cases<i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -373,7 +373,7 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title">
-                                                            <h3><a href="team-details.html">Peter Wright</a></h3>
+                                                            <h3><a href="team-details">Peter Wright</a></h3>
                                                         </div>
                                                         <p class="team-position">CEO Engineer</p>
                                                     </div>
@@ -401,7 +401,7 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title">
-                                                            <h3><a href="team-details.html">Jessica Ethan</a></h3>
+                                                            <h3><a href="team-details">Jessica Ethan</a></h3>
                                                         </div>
                                                         <p class="team-position">Civil Engineer</p>
                                                     </div>
@@ -429,7 +429,7 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title">
-                                                            <h3><a href="team-details.html">John Martin</a></h3>
+                                                            <h3><a href="team-details">John Martin</a></h3>
                                                         </div>
                                                         <p class="team-position">General Assistant</p>
                                                     </div>
@@ -457,7 +457,7 @@
                                                     </div>
                                                     <div class="featured-content">
                                                         <div class="featured-title">
-                                                            <h3><a href="team-details.html">Dwayn Royes</a></h3>
+                                                            <h3><a href="team-details">Dwayn Royes</a></h3>
                                                         </div>
                                                         <p class="team-position">Project Manager</p>
                                                     </div>
@@ -568,7 +568,7 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3 col-lg-3">
-                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-dark float-lg-end" href="blog.html">all Blogs <i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-dark float-lg-end" href="blog">all Blogs <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -593,12 +593,12 @@
                                             0 Comments</span>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="blog-right-sidebar.html">Can textiles lead the way during the pandemic?</a></h3>
+                                        <h3><a href="blog-right-sidebar">Can textiles lead the way during the pandemic?</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -621,12 +621,12 @@
                                             0 Comments</span>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="blog-right-sidebar.html">One stop solution for textiles fabrics</a></h3>
+                                        <h3><a href="blog-right-sidebar">One stop solution for textiles fabrics</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -649,12 +649,12 @@
                                             0 Comments</span>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="blog-right-sidebar.html">Textilegence Magazine & Digital Platform</a></h3>
+                                        <h3><a href="blog-right-sidebar">Textilegence Magazine & Digital Platform</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -677,12 +677,12 @@
                                             0 Comments</span>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="blog-right-sidebar.html">Contactless Payments Time Has Come</a></h3>
+                                        <h3><a href="blog-right-sidebar">Contactless Payments Time Has Come</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -705,12 +705,12 @@
                                             0 Comments</span>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="blog-right-sidebar.html">Contactless Payments Time Has Come</a></h3>
+                                        <h3><a href="blog-right-sidebar">Contactless Payments Time Has Come</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -796,16 +796,16 @@
                                     <h3 class="widget-title">All Links</h3>
                                     <ul id="menu-footer-quick-links" class="menu">
                                         <li>
-                                            <a href="index.html">Home</a>
+                                            <a href="/>Home</a>
                                         </li>
                                         <li>
-                                            <a href="about-us.html">About Company</a>
+                                            <a href="about-us">About Company</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Services</a>
+                                            <a href="services">Our Services</a>
                                         </li>
                                         <li>
-                                            <a href="contact-us.html">Privacy Policy</a>
+                                            <a href="contact-us">Privacy Policy</a>
                                         </li>
                                     </ul>
                                     <br>
@@ -821,7 +821,7 @@
                                             <li>Address: 3901 Parkview Ln Apt 7c,</li>
                                             <li>Irvine, CA 92612</li>
                                             <li>Phone:(+1) 714-757-8371</li>
-                                            <li><a href="mailto:info@BuildCrest.co">Email: info@BuildCrest.co</a></li>
+                                            <li><a href="mailto:info@buildcrest.co">Email: info@buildcrest.co</a></li>
                                         </ul>       
                                     </div>
                                 </div>
@@ -831,7 +831,7 @@
                                 <div class="widget multi_widget clearfix">
                                     <div class="newsletter_widget clearfix">
                                         <h3 class="widget-title">Request A Quote</h3>
-                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@BuildCrest.co!</p>
+                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@buildcrest.co!</p>
                                     </div>
                                     <div class="widget widget-latest-tweets">
                                         <div class="widgte-text">
@@ -860,9 +860,9 @@
                             </div>
                             <div class="col-sm-6">
                                 <ul class="footer-nav-menu text-md-end">
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="contact-us.html">Privacy</a></li>
+                                    <li><a href="about-us">About Us</a></li>
+                                    <li><a href="services">Services</a></li>
+                                    <li><a href="contact-us">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>

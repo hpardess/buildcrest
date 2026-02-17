@@ -40,7 +40,7 @@
                                     <div class="site-navigation d-flex align-items-center justify-content-between">
                                         <!-- site-branding -->
                                         <div class="site-branding ml_20 res-1199-ml_10">
-                                            <a class="home-link" href="index.html" title="BuildCrest" rel="home">
+                                            <a class="home-link" href="./" title="BuildCrest" rel="home">
                                                 <img style="max-height: 100%!important;" id="logo-img" height="45" width="175" class="img-fluid auto_size" src="images/buildcrest_logo.png" alt="logo-img">
                                             </a>
                                         </div><!-- site-branding end -->
@@ -54,16 +54,16 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item active">
-                                                        <a href="index.html" class="mega-menu-link">Home</a>
+                                                        <a href="./" class="mega-menu-link">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="about-us.html" class="mega-menu-link">About</a>
+                                                        <a href="about-us" class="mega-menu-link">About</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="services.html" class="mega-menu-link">Services</a>
+                                                        <a href="services" class="mega-menu-link">Services</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="contact-us.html">Contact us</a>
+                                                        <a href="contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
@@ -84,7 +84,7 @@
                                                 </div>
                                                 <div class="widget_content">
                                                     <p>Talk to us</p>
-                                                    <h3 class="widget_title">info@BuildCrest.co | AhmadJawid@BuildCrest.co</h3>
+                                                    <h3 class="widget_title">info@buildcrest.co | AhmadJawid@buildcrest.co</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -148,7 +148,7 @@
                             <!-- <a
                                 id="slider-2-slide-2-layer-3" 
                                 class="rs-layer"
-                                href="about-us.html" target="_self"
+                                href="about-us" target="_self"
                                 data-type="text"
                                 data-color="#00245a"
                                 data-rsp_ch="on"
@@ -256,7 +256,7 @@
                             <!-- <a
                                 id="slider-2-slide-6-layer-3" 
                                 class="rs-layer"
-                                href="about-us.html" target="_self"
+                                href="about-us" target="_self"
                                 data-type="text"
                                 data-color="#00245a"
                                 data-rsp_ch="on"
@@ -538,7 +538,7 @@
                                         <div class="featured-desc">
                                             <p>Professional earthmoving, excavation, grading, and landscaping, providing stable foundations and precise site preparation.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="architecture.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="architecture">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-crane"></i></div>
                                 </div>
@@ -557,7 +557,7 @@
                                         <div class="featured-desc">
                                             <p>Construction of roads, sidewalks, driveways, drainage systems, and site improvements that support sustainable community growth.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="interior-work.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="interior-work">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-brickwall"></i></div>
                                 </div>
@@ -576,7 +576,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -595,7 +595,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -614,7 +614,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -661,7 +661,7 @@
                                         <div class="featured-desc">
                                             <p>Professional earthmoving, excavation, grading, and landscaping, providing stable foundations and precise site preparation.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="architecture.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="architecture">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-crane"></i></div>
                                 </div>
@@ -680,7 +680,7 @@
                                         <div class="featured-desc">
                                             <p>Construction of roads, sidewalks, driveways, drainage systems, and site improvements that support sustainable community growth.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="interior-work.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="interior-work">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-brickwall"></i></div>
                                 </div>
@@ -699,7 +699,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -718,7 +718,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -737,7 +737,7 @@
                                         <div class="featured-desc">
                                             <p>Execution of reinforced concrete and structural systems, as well as paving works such as asphalt roads and parking lots, ensuring strength, durability, and precision.</p>
                                         </div>
-                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                        <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="retail-designs">View More<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <div class="bg_icon"><i class="flaticon flaticon-construction-3"></i></div>
                                 </div>
@@ -1432,7 +1432,7 @@
                                                     <div class="featured-desc">
                                                         <p>We established BuildCrest as basic construction company with the aim of become of the best architect and give the best to the world</p>
                                                     </div>
-                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us.html">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
+                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1448,7 +1448,7 @@
                                                     <div class="featured-desc">
                                                         <p>We established BuildCrest as basic construction company with the aim of become of the best architect and give the best to the world</p>
                                                     </div>
-                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us.html">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
+                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1464,7 +1464,7 @@
                                                     <div class="featured-desc">
                                                         <p>We established BuildCrest as basic construction company with the aim of become of the best architect and give the best to the world</p>
                                                     </div>
-                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us.html">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
+                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="about-us">READ FULL STORY<i class="fa fa-long-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1517,13 +1517,13 @@
                                             </ul>
                                         </div>
                                         <div class="ttm-media-link">
-                                            <a href="architecture.html" class="ttm_link"><i class="fa fa-angle-right"></i></a>
+                                            <a href="architecture" class="ttm_link"><i class="fa fa-angle-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h3><a href="architecture.html">Architecture</a></h3>
+                                        <h3><a href="architecture">Architecture</a></h3>
                                     </div>
                                     <div class="post-cat">
                                         <span class="cat_links">
@@ -1560,13 +1560,13 @@
                                             </ul>
                                         </div>
                                         <div class="ttm-media-link">
-                                            <a href="interior-work.html" class="ttm_link"><i class="fa fa-angle-right"></i></a>
+                                            <a href="interior-work" class="ttm_link"><i class="fa fa-angle-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h3><a href="interior-work.html">Interior Work</a></h3>
+                                        <h3><a href="interior-work">Interior Work</a></h3>
                                     </div>
                                     <div class="post-cat">
                                         <span class="cat_links">
@@ -1603,13 +1603,13 @@
                                             </ul>
                                         </div>
                                         <div class="ttm-media-link">
-                                            <a href="retail-designs.html" class="ttm_link"><i class="fa fa-angle-right"></i></a>
+                                            <a href="retail-designs" class="ttm_link"><i class="fa fa-angle-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h3><a href="retail-designs.html">Retail Designs</a></h3>
+                                        <h3><a href="retail-designs">Retail Designs</a></h3>
                                     </div>
                                     <div class="post-cat">
                                         <span class="cat_links">
@@ -1690,8 +1690,8 @@
                                             </div>
                                         </div>
                                         <div class="d-md-flex align-items-center padding_top25 res-991-margin_top10">
-                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-squar ttm-btn-style-fill ttm-icon-btn-left ttm-btn-color-grey w-100 margin_right15 res-767-margin_right0 res-767-margin_bottom20" href="about-us.html" tabindex="0"><i class="fa fa-chevron-circle-right"></i> Reliable and Proven</a>
-                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-squar ttm-btn-style-fill ttm-icon-btn-left ttm-btn-color-grey w-100" href="about-us-2.html" tabindex="0"><i class="fa fa-chevron-circle-right"></i> Best Team Members</a>
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-squar ttm-btn-style-fill ttm-icon-btn-left ttm-btn-color-grey w-100 margin_right15 res-767-margin_right0 res-767-margin_bottom20" href="about-us" tabindex="0"><i class="fa fa-chevron-circle-right"></i> Reliable and Proven</a>
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-shape-squar ttm-btn-style-fill ttm-icon-btn-left ttm-btn-color-grey w-100" href="about-us-2" tabindex="0"><i class="fa fa-chevron-circle-right"></i> Best Team Members</a>
                                         </div>
                                         <div class="ttm-horizontal_sep margin_top40 margin_bottom40"></div>
                                         <div class="featured-icon-box icon-align-before-content">
@@ -1712,19 +1712,19 @@
                                 <div class="col-lg-6">
                                     <div class="accordion">
                                         <div class="toggle ttm-toggle_style_classic style4 ttm-toggle-title-bgcolor-white">
-                                            <div class="toggle-title"><a href="about-us-2.html" class="active">Constructor Explains How You Can Enjoy</a></div>
+                                            <div class="toggle-title"><a href="about-us-2" class="active">Constructor Explains How You Can Enjoy</a></div>
                                             <div class="toggle-content show">
                                                 <p>Yes, absolutely! This is your building design and building construction project, and your wants and needs should always be kept front of mind by your general contractor.</p>
                                             </div>
                                         </div>
                                         <div class="toggle ttm-toggle_style_classic style4 ttm-toggle-title-bgcolor-white">
-                                            <div class="toggle-title"><a href="about-us-2.html">Can I Be A Part Of Construction Process?</a></div>
+                                            <div class="toggle-title"><a href="about-us-2">Can I Be A Part Of Construction Process?</a></div>
                                             <div class="toggle-content">
                                                 <p>Yes, absolutely! This is your building design and building construction project, and your wants and needs should always be kept front of mind by your general contractor.</p>
                                             </div>
                                         </div>
                                         <div class="toggle ttm-toggle_style_classic style4 ttm-toggle-title-bgcolor-white">
-                                            <div class="toggle-title"><a href="about-us-2.html">How Long Should I Expect Of Completion?</a></div>
+                                            <div class="toggle-title"><a href="about-us-2">How Long Should I Expect Of Completion?</a></div>
                                             <div class="toggle-content">
                                                 <p>Yes, absolutely! This is your building design and building construction project, and your wants and needs should always be kept front of mind by your general contractor.</p>
                                             </div>
@@ -1766,12 +1766,12 @@
                                                     0 Comments</span>
                                             </div>
                                             <div class="featured-title">
-                                                <h3><a href="blog-right-sidebar.html">Improve Workflow With Agile Construction</a></h3>
+                                                <h3><a href="blog-right-sidebar">Improve Workflow With Agile Construction</a></h3>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                             </div>
-                                            <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                            <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -1827,12 +1827,12 @@
                                                 </span>
                                             </div>
                                             <div class="featured-title">
-                                                <h3><a href="blog-right-sidebar.html">Things to Know When Choosing the Perfect</a></h3>
+                                                <h3><a href="blog-right-sidebar">Things to Know When Choosing the Perfect</a></h3>
                                             </div>
                                             <div class="featured-desc">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidid...</p>
                                             </div>
-                                            <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar.html">View More<i class="fa fa-long-arrow-right"></i></a>
+                                            <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-textcolor-darkgreycolor" href="blog-right-sidebar">View More<i class="fa fa-long-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -1933,16 +1933,16 @@
                                     <h3 class="widget-title">All Links</h3>
                                     <ul id="menu-footer-quick-links" class="menu">
                                         <li>
-                                            <a href="index.html">Home</a>
+                                            <a href="/>Home</a>
                                         </li>
                                         <li>
-                                            <a href="about-us.html">About Company</a>
+                                            <a href="about-us">About Company</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Services</a>
+                                            <a href="services">Our Services</a>
                                         </li>
                                         <li>
-                                            <a href="contact-us.html">Privacy Policy</a>
+                                            <a href="contact-us">Privacy Policy</a>
                                         </li>
                                     </ul>
                                     <br>
@@ -1958,7 +1958,7 @@
                                             <li>Address: 3901 Parkview Ln Apt 7c,</li>
                                             <li>Irvine, CA 92612</li>
                                             <li>Phone:(+1) 714-757-8371</li>
-                                            <li><a href="mailto:info@BuildCrest.co">Email: info@BuildCrest.co</a></li>
+                                            <li><a href="mailto:info@buildcrest.co">Email: info@buildcrest.co</a></li>
                                         </ul>       
                                     </div>
                                 </div>
@@ -1968,7 +1968,7 @@
                                 <div class="widget multi_widget clearfix">
                                     <div class="newsletter_widget clearfix">
                                         <h3 class="widget-title">Request A Quote</h3>
-                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@BuildCrest.co!</p>
+                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@buildcrest.co!</p>
                                     </div>
                                     <div class="widget widget-latest-tweets">
                                         <div class="widgte-text">
@@ -1997,9 +1997,9 @@
                             </div>
                             <div class="col-sm-6">
                                 <ul class="footer-nav-menu text-md-end">
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="contact-us.html">Privacy</a></li>
+                                    <li><a href="about-us">About Us</a></li>
+                                    <li><a href="services">Services</a></li>
+                                    <li><a href="contact-us">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>

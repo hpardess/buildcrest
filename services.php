@@ -34,7 +34,7 @@
                                     <div class="site-navigation d-flex align-items-center justify-content-between">
                                         <!-- site-branding -->
                                         <div class="site-branding ml_20 res-1199-ml_10">
-                                            <a class="home-link" href="index.html" title="BuildCrest" rel="home">
+                                            <a class="home-link" href="./" title="BuildCrest" rel="home">
                                                 <img style="max-height: 100%!important;" id="logo-img" height="45" width="175" class="img-fluid auto_size" src="images/buildcrest_logo.png" alt="logo-img">
                                             </a>
                                         </div><!-- site-branding end -->
@@ -48,16 +48,16 @@
                                             <nav class="main-menu menu-mobile" id="menu">
                                                 <ul class="menu">
                                                     <li class="mega-menu-item">
-                                                        <a href="index.html" class="mega-menu-link">Home</a>
+                                                        <a href="./" class="mega-menu-link">Home</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="about-us.html" class="mega-menu-link">About</a>
+                                                        <a href="about-us" class="mega-menu-link">About</a>
                                                     </li>
                                                     <li class="mega-menu-item active">
-                                                        <a href="services.html" class="mega-menu-link">Services</a>
+                                                        <a href="services" class="mega-menu-link">Services</a>
                                                     </li>
                                                     <li class="mega-menu-item">
-                                                        <a href="contact-us.html">Contact us</a>
+                                                        <a href="contact-us">Contact us</a>
                                                     </li>
                                                 </ul>
                                             </nav><!-- menu end -->
@@ -78,7 +78,7 @@
                                                 </div>
                                                 <div class="widget_content">
                                                     <p>Talk to us</p>
-                                                    <h3 class="widget_title">info@BuildCrest.co | AhmadJawid@BuildCrest.co</h3>
+                                                    <h3 class="widget_title">info@buildcrest.co | AhmadJawid@buildcrest.co</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -105,7 +105,7 @@
                                 </div>
                                 <div class="breadcrumb-wrapper">
                                     <span>
-                                        <a title="Homepage" href="index.html">
+                                        <a title="Homepage" href="/>
                                             <i class="themifyicon ti-home"></i> &nbsp;Home
                                         </a>
                                     </span>
@@ -429,16 +429,16 @@
                                     <h3 class="widget-title">All Links</h3>
                                     <ul id="menu-footer-quick-links" class="menu">
                                         <li>
-                                            <a href="index.html">Home</a>
+                                            <a href="/>Home</a>
                                         </li>
                                         <li>
-                                            <a href="about-us.html">About Company</a>
+                                            <a href="about-us">About Company</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Services</a>
+                                            <a href="services">Our Services</a>
                                         </li>
                                         <li>
-                                            <a href="contact-us.html">Privacy Policy</a>
+                                            <a href="contact-us">Privacy Policy</a>
                                         </li>
                                     </ul>
                                     <br>
@@ -454,7 +454,7 @@
                                             <li>Address: 3901 Parkview Ln Apt 7c,</li>
                                             <li>Irvine, CA 92612</li>
                                             <li>Phone:(+1) 714-757-8371</li>
-                                            <li><a href="mailto:info@BuildCrest.co">Email: info@BuildCrest.co</a></li>
+                                            <li><a href="mailto:info@buildcrest.co">Email: info@buildcrest.co</a></li>
                                         </ul>       
                                     </div>
                                 </div>
@@ -464,7 +464,7 @@
                                 <div class="widget multi_widget clearfix">
                                     <div class="newsletter_widget clearfix">
                                         <h3 class="widget-title">Request A Quote</h3>
-                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@BuildCrest.co!</p>
+                                        <p>Need advises?? Call us (+1) 714-757-8371 or email info@buildcrest.co!</p>
                                     </div>
                                     <div class="widget widget-latest-tweets">
                                         <div class="widgte-text">
@@ -493,9 +493,9 @@
                             </div>
                             <div class="col-sm-6">
                                 <ul class="footer-nav-menu text-md-end">
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="contact-us.html">Privacy</a></li>
+                                    <li><a href="about-us">About Us</a></li>
+                                    <li><a href="services">Services</a></li>
+                                    <li><a href="contact-us">Privacy</a></li>
                                 </ul>
                             </div>
                         </div>
