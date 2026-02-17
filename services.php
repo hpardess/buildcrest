@@ -145,7 +145,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="https://placehold.co/600x440?text=600x440+services-01-600x440.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/excavator.jpg" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -174,7 +174,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="https://placehold.co/600x440?text=600x440+services-02-600x440.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/infrastructure-base.jpg" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -203,7 +203,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="https://placehold.co/600x440?text=600x440+services-03-600x440.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/concrete-work.jpg" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -232,7 +232,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="https://placehold.co/600x440?text=600x440+services-04-600x440.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/underground-utility-work.jpg" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -261,7 +261,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="https://placehold.co/600x440?text=600x440+services-05-600x440.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/qa-checklist-inspection.jpg" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">

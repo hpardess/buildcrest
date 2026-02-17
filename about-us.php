@@ -129,11 +129,11 @@
                             <div class="section-title">
                                 <div class="title-header">
                                     <h3>ABOUT COMPANY</h3>
-                                    <h2 class="title">We Are Best In <span>Architect</span> Company In US. </h2>
+                                    <h2 class="title">We Are Best In <span>Construction</span> & <span>Infrastructure</span></h2>
                                 </div>
                                 <div class="title-desc">
-                                    <p>BuildCrest Construction Corp is a California-based General Engineering Contractor (CSLB Class A) specializing in construction and infrastructure projects of all sizes. We deliver technically demanding public works and site development projects with a strong commitment to safety, quality, and performance.</p>
-                                    <p>Our leadership team brings over a decade of experience delivering infrastructure and construction projects for the U.S. Army Corps of Engineers (USACE), the U.S. military, cities, Caltrans, and other government clients. These projects required strict compliance with U.S. Government standards, detailed quality control systems, disciplined project management, and comprehensive safety programs.
+                                    <p>BuildCrest Construction Corp is a California-based General Engineering Contractor (CSLB Class A) specializing in construction and infrastructure projects of all sizes. We deliver technically demanding residential, commercial, and site development projects with a strong commitment to safety, quality, and exceptional performance.</p>
+                                    <p>Our leadership team brings over a decade of experience delivering infrastructure and construction projects for the U.S. Army Corps of Engineers (USACE),Cities, Caltrans, and other government clients. These projects required strict compliance with U.S. Government standards, detailed quality control systems, disciplined project management, and comprehensive safety programs.</p>
                                     <p>That same level of accountability, structure, and operational excellence now defines BuildCrest Construction Corp.</p>
                                 </div>
                             </div>
@@ -207,7 +207,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="ttm_single_image-wrapper text-end res-991-padding_top30">
-                                <img class="img-fluid auto_size" src="https://placehold.co/569x597?text=569x597+single-img9.jpg" alt="single-06" height="597" width="569">
+                                <img class="img-fluid auto_size" src="images/bg-image/about-us-image_1.jpg" alt="single-06" height="597" width="569">
                             </div>
                         </div>
                     </div>

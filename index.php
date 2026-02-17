@@ -101,8 +101,8 @@
             <rs-module-wrap id="rev_slider_2_1_wrapper" data-alias="architecture-classic-slider" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                 <rs-module id="rev_slider_2_1" style="" data-version="6.5.7">
                     <rs-slides>
-                        <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_1.png" data-in="o:0;col:400;" data-out="a:false;">
-                            <img src="images/bg-image/mainslider-bg_1.png" title="slider_img1.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
+                        <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_1.jpg" data-in="o:0;col:400;" data-out="a:false;">
+                            <img src="images/bg-image/mainslider-bg_1.jpg" title="slider_img1.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
                             <rs-layer
                                 id="slider-2-slide-2-layer-0" 
                                 data-type="shape"
@@ -204,12 +204,12 @@
                                 data-frame_1="st:220;sp:700;"
                                 data-frame_999="o:0;st:w;sR:8700;"
                                 style="z-index:10;font-family:'DM Sans';"
-                            > With Passion 
+                            > with Passion 
                             </rs-layer>
                         </rs-slide>
 
-                        <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_2.png" data-in="o:0;col:400;" data-out="a:false;">
-                            <img src="images/bg-image/mainslider-bg_2.png" title="slider_img3.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
+                        <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_2.jpg" data-in="o:0;col:400;" data-out="a:false;">
+                            <img src="images/bg-image/mainslider-bg_2.jpg" title="slider_img3.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
                             
                             <rs-layer
                                 id="slider-2-slide-6-layer-0" 
@@ -346,7 +346,7 @@
                                     <div class="section-title">
                                         <div class="title-header">
                                             <h3>ABOUT BuildCrest</h3>
-                                            <h2 class="title">We Are Celebrating Art Of Architecture!</h2>
+                                            <h2 class="title">We Are Focused!</h2>
                                         </div>
                                         <div class="title-desc">
                                             <p>BuildCrest is committed to delivering high-quality construction services for residential, commercial, horizontal, and vertical projects. Our experienced professional engineers, certified quality control specialists, and certified safety team are dedicated to providing exceptional service with a strong focus on safety, quality, precision, and efficiency. We are committed to turning your vision into reality.</p>
