@@ -232,7 +232,7 @@
                                     <div class="featured-imagebox featured-imagebox-sevices style1">
                                         <div class="featured-thumbnail">
                                             <a href="javascript:void(0);" tabindex="-1">
-                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/underground-utility-work.jpg" alt="">
+                                                <img width="600" height="440" class="img-fluid" src="images/bg-image/underground-utility-work.png" alt="">
                                             </a>
                                             <div class="ttm-media-link">
                                                 <a href="javascript:void(0);" tabindex="-1" class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-md">

@@ -103,7 +103,7 @@
                     <rs-slides>
                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_1.jpg" data-in="o:0;col:400;" data-out="a:false;">
                             <img src="images/bg-image/mainslider-bg_1.jpg" title="slider_img1.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-2-slide-2-layer-0" 
                                 data-type="shape"
                                 data-rsp_ch="on"
@@ -114,7 +114,7 @@
                                 data-frame_999="o:0;st:w;sR:8700;"
                                 style="z-index:8;background-color:#ffffff;"
                             > 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-2-slide-2-layer-1" 
@@ -134,7 +134,7 @@
                             <rs-layer
                                 id="slider-2-slide-2-layer-2" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#ffffff"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:451px,451px,244px,200px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
@@ -164,7 +164,7 @@
                             <rs-layer
                                 id="slider-2-slide-2-layer-4" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#ffffff"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:511px,511px,278px,231px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
@@ -196,7 +196,7 @@
                             <rs-layer
                                 id="slider-2-slide-2-layer-7" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#fbfbfb"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:571px,571px,313px,263px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
@@ -211,7 +211,7 @@
                         <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_2.jpg" data-in="o:0;col:400;" data-out="a:false;">
                             <img src="images/bg-image/mainslider-bg_2.jpg" title="slider_img3.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
                             
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-2-slide-6-layer-0" 
                                 data-type="shape"
                                 data-rsp_ch="on"
@@ -222,7 +222,7 @@
                                 data-frame_999="o:0;st:w;sR:8700;"
                                 style="z-index:8;background-color:#ffffff;"
                             > 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-2-slide-6-layer-1" 
@@ -242,7 +242,7 @@
                             <rs-layer
                                 id="slider-2-slide-6-layer-2" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#ffffff"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:451px,451px,244px,200px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
@@ -272,7 +272,7 @@
                             <rs-layer
                                 id="slider-2-slide-6-layer-4" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#ffffff"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:511px,511px,278px,231px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
@@ -304,7 +304,7 @@
                             <rs-layer
                                 id="slider-2-slide-6-layer-7" 
                                 data-type="text"
-                                data-color="#00245a"
+                                data-color="#ffffff"
                                 data-rsp_ch="on"
                                 data-xy="xo:203px,203px,50px,30px;yo:571px,571px,313px,263px;"
                                 data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
