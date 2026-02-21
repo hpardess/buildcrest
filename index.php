@@ -116,7 +116,7 @@
                             > 
                             </rs-layer> -->
 
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-2-slide-2-layer-1" 
                                 data-type="image"
                                 data-rsp_ch="on"
@@ -129,7 +129,7 @@
                                 data-frame_999="o:0;st:w;sR:8680;"
                                 style="z-index:9;"
                             ><img src="images/jcb_img_1.png" class="tp-rs-img" alt="img" width="419" height="269" data-no-retina> 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-2-slide-2-layer-2" 
@@ -224,7 +224,7 @@
                             > 
                             </rs-layer> -->
 
-                            <rs-layer
+                            <!-- <rs-layer
                                 id="slider-2-slide-6-layer-1" 
                                 data-type="image"
                                 data-rsp_ch="on"
@@ -237,7 +237,7 @@
                                 data-frame_999="o:0;st:w;sR:8680;"
                                 style="z-index:9;"
                             ><img src="images/jcb_img_1.png" alt="img" class="tp-rs-img" width="419" height="269" data-no-retina> 
-                            </rs-layer>
+                            </rs-layer> -->
 
                             <rs-layer
                                 id="slider-2-slide-6-layer-2" 
@@ -329,13 +329,13 @@
             <section class="ttm-row padding_zero-section margin_top220 res-1199-margin_top160 res-991-margin_top60 ttm-bgcolor-grey clearfix">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
-                            <div class="ttm-bg ttm-col-bgimage-yes col-bg-img-eleven z-index-2 spacing-12">
+                        <div class="col-lg-3">
+                            <!-- <div class="ttm-bg ttm-col-bgimage-yes col-bg-img-eleven z-index-2 spacing-12">
                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                                 <div class="layer-content">
                                 </div>
                             </div>
-                            <img class="img-fluid ttm-equal-height-image w-100" src="images/bg-image/main-about-bg_1.jpg" alt="bg-image" height="485" width="570">
+                            <img class="img-fluid ttm-equal-height-image w-100" src="images/bg-image/main-about-bg_1.jpg" alt="bg-image" height="485" width="570"> -->
                         </div>
                         <div class="col-lg-6">
                             <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-grey ttm-bg ttm-right-span spacing-13">
@@ -1933,7 +1933,7 @@
                                     <h3 class="widget-title">All Links</h3>
                                     <ul id="menu-footer-quick-links" class="menu">
                                         <li>
-                                            <a href="/>Home</a>
+                                            <a href="/">Home</a>
                                         </li>
                                         <li>
                                             <a href="about-us">About Company</a>
