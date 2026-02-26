@@ -338,7 +338,7 @@
                                         <h3>Email Us On</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>info@buildcrest.co <br> AhmadJawid@buildcrest.co</p>
+                                        <p>info@buildcrest.co <br> </p>
                                     </div>
                                 </div>
                             </div>

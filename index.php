@@ -315,6 +315,114 @@
                             >Construction Services. 
                             </rs-layer>
                         </rs-slide>
+
+                        <rs-slide style="position: absolute;" data-key="rs-10" data-title="Slide" data-thumb="images/bg-image/mainslider-bg_3.jpg" data-in="o:0;col:400;" data-out="a:false;">
+                            <img src="images/bg-image/mainslider-bg_3.jpg" title="slider_img3.png" width="1750" height="731" class="rev-slidebg tp-rs-img" data-no-retina>
+                            
+                            <!-- <rs-layer
+                                id="slider-2-slide-6-layer-0" 
+                                data-type="shape"
+                                data-rsp_ch="on"
+                                data-xy="xo:-90px,-90px,-3px,-1px;y:t,t,b,b;yo:332px,332px,-3px,-1px;"
+                                data-text="w:normal;s:20,20,8,4;l:0,0,10,6;"
+                                data-dim="w:964px,964px,428px,300px;h:405px,405px,279px,250px;"
+                                data-frame_0="o:1;"
+                                data-frame_999="o:0;st:w;sR:8700;"
+                                style="z-index:8;background-color:#ffffff;"
+                            > 
+                            </rs-layer> -->
+
+                            <!-- <rs-layer
+                                id="slider-2-slide-6-layer-1" 
+                                data-type="image"
+                                data-rsp_ch="on"
+                                data-xy="xo:200px,200px,-304px,-187px;yo:148px,148px,63px,38px;"
+                                data-text="w:normal;s:20,20,8,4;l:0,0,10,6;"
+                                data-dim="w:419px,419px,186px,114px;h:269px,269px,119px,73px;"
+                                data-wrpcls="tm-custome-animation"
+                                data-frame_0="sX:0.9;sY:0.9;"
+                                data-frame_1="st:50;sp:700;"
+                                data-frame_999="o:0;st:w;sR:8680;"
+                                style="z-index:9;"
+                            ><img src="images/jcb_img_1.png" alt="img" class="tp-rs-img" width="419" height="269" data-no-retina> 
+                            </rs-layer> -->
+
+                            <rs-layer
+                                id="slider-2-slide-6-layer-2" 
+                                data-type="text"
+                                data-color="#ffffff"
+                                data-rsp_ch="on"
+                                data-xy="xo:203px,203px,50px,30px;yo:451px,451px,244px,200px;"
+                                data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
+                                data-frame_0="y:50,50,22,13;"
+                                data-frame_1="st:60;sp:700;"
+                                data-frame_999="o:0;st:w;sR:8700;"
+                                style="z-index:12;font-family:'DM Sans';"
+                            >We are Committed to
+                            </rs-layer>
+
+                            <!-- <a
+                                id="slider-2-slide-6-layer-3" 
+                                class="rs-layer"
+                                href="about-us" target="_self"
+                                data-type="text"
+                                data-color="#00245a"
+                                data-rsp_ch="on"
+                                data-xy="xo:292px,292px,90px,81px;yo:675px,675px,379px,330px;"
+                                data-text="w:normal;s:14,14,12,12;l:22,22,12,12;fw:700;"
+                                data-frame_0="y:50,50,22,13;"
+                                data-frame_1="st:250;sp:500;"
+                                data-frame_999="o:0;st:w;sR:8700;"
+                                style="z-index:13;font-family:'DM Sans';"
+                            >MORE ABOUT PROJECT 
+                            </a> -->
+
+                            <rs-layer
+                                id="slider-2-slide-6-layer-4" 
+                                data-type="text"
+                                data-color="#ffffff"
+                                data-rsp_ch="on"
+                                data-xy="xo:203px,203px,50px,30px;yo:511px,511px,278px,231px;"
+                                data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
+                                data-frame_0="y:50,50,22,13;"
+                                data-frame_1="st:150;sp:750;"
+                                data-frame_999="o:0;st:w;sR:8700;"
+                                style="z-index:11;font-family:'DM Sans';"
+                            > Deliver <span class="ttm-textcolor-skincolor">High-Quality </span> 
+                            </rs-layer>
+
+                            <!-- <a
+                                id="slider-2-slide-6-layer-6" 
+                                class="rs-layer ttm_prettyphoto"
+                                href="https://www.youtube.com/watch?v=7e90gBu4pas" target="_self"
+                                data-type="text"
+                                data-rsp_ch="on"
+                                data-xy="xo:205px,205px,50px,30px;yo:658px,658px,372px,319px;"
+                                data-text="w:normal;s:18,18,7,12;l:50,50,22,35;ls:2px,2px,0px,0px;fw:700;a:center;"
+                                data-dim="w:auto,auto,auto,35px;h:auto,auto,auto,35px;"
+                                data-padding="t:6,6,3,2;r:23,23,10,6;b:6,6,3,2;l:20,20,11,7;"
+                                data-border="bor:50px,50px,50px,50px;"
+                                data-frame_0="y:50,50,22,13;"
+                                data-frame_1="e:power3.out;st:250;sp:500;"
+                                data-frame_999="o:0;st:w;"
+                                style="z-index:14;background-color:#00bfff;font-family:'Roboto';"
+                            ><i class="fa fa-play"></i> 
+                            </a> -->
+
+                            <rs-layer
+                                id="slider-2-slide-6-layer-7" 
+                                data-type="text"
+                                data-color="#ffffff"
+                                data-rsp_ch="on"
+                                data-xy="xo:203px,203px,50px,30px;yo:571px,571px,313px,263px;"
+                                data-text="w:normal;s:50,50,25,20;l:60,60,30,25;fw:700;"
+                                data-frame_0="y:50,50,22,13;"
+                                data-frame_1="st:220;sp:700;"
+                                data-frame_999="o:0;st:w;sR:8700;"
+                                style="z-index:10;font-family:'DM Sans';"
+                            >Construction Services. 
+                            </rs-layer>
+                        </rs-slide>
                     </rs-slides>
                 </rs-module>
             </rs-module-wrap>
